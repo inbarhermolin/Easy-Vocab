@@ -1,5 +1,14 @@
+
 streamlit
 gspread
 pandas
 google-generativeai
 streamlit-autorefresh
+
+streamlit
+gspread
+pandas
+google-generativeai
+google-api-core
+streamlit-autorefresh
+
